@@ -1,4 +1,4 @@
-## Backend - Prodex AI
+## Backend - Olympus AI
 
 ## Prerequisites
 
@@ -27,7 +27,7 @@ npm install
 
 #### Step 3: Environment Variables
 
-Create a `.env` file in the `prodexBackend` directory with the following structure:
+Create a `.env` file in the `olympus-ai-2-server` directory with the following structure:
 
 ```
 PORT=
